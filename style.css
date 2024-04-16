@@ -1,0 +1,42 @@
+
+body{
+     background-color: rgba(179, 0, 0, 0.884);
+
+}
+
+h1{
+    color: white;
+    text-align: center;
+    text-shadow: black;
+}
+img{
+
+  width: 100px
+    display: block
+    margin-left: auto;
+    margin-right auto;
+    
+}
+div{
+    display: inline-block;
+    background-color: rgb(240, 233, 233);
+    border: ipx solid black;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    margin-left: 3%;
+    margin-right: 3%;
+
+}
+button{
+        margin-top: 20%;
+        height: 25%
+        
+}
+input{
+     background-color: rgb(250, 242, 242);
+     scroll-margin-inline: 50%;
+
+}
+
+}
