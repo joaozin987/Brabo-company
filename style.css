@@ -8,55 +8,53 @@ body {
   min-width: 500px;
   max-width: 1400px;
   margin: auto;
-
 }
-header{
+header {
   max-width: 1400px;
 }
 
 .menu {
-  padding:1%;
+  padding: 1%;
   margin-bottom: 2%;
   background-color: #000000;
   display: flex;
   justify-content: center;
-  width: 1350px;
-  line-height: 50px;
-  font-style:italic;
+  width: 1370px;
+  line-height: 30px;
+  font-style: italic;
 }
 
-.flex-cotainer{
-  flex-direction: row,row-reverse,column,column-reverse;
+.flex-cotainer {
+  flex-direction: row, row-reverse, column, column-reverse;
 }
 
 li {
   padding: 3%;
-  float: left
-  ;
+  float: left;
 }
 
 li,
-a{
+a {
   display: block;
   color: rgb(214, 20, 20);
-  padding: 10px 11px; 
+  padding: 10px 11px;
   padding-left: 2% 3%;
   text-decoration: none;
   font-weight: bold;
   border-radius: 5%;
 }
 li,
-a:hover{
+a:hover {
   color: rgb(247, 244, 244);
 }
-img{
+img {
   width: 160px;
   padding-left: 2%;
   padding-right: 6%;
   text-align: left;
 }
 
-.a{
+.a {
   display: flex;
   flex-direction: row;
   background-color: white;
@@ -64,15 +62,13 @@ img{
   padding: 0%;
   width: 400px;
   padding-left: 0%;
-  margin-left:10%;
+  margin-left: 10%;
   margin-right: 1%;
   margin-top: 3%;
-
 }
 button {
   margin-top: 20%;
   height: 25%;
-
 }
 footer {
   background-color: rgb(0, 0, 0);
@@ -80,7 +76,7 @@ footer {
   margin-top: 15%;
   text-align-last: center;
 }
-h1{
+h1 {
   margin-top: auto;
   margin-bottom: 0%;
   text-align: center;
@@ -89,13 +85,13 @@ h1{
   color: #f70000;
   font-style: italic;
 }
-h2{
+h2 {
   margin-top: 3%;
   font-style: italic;
   text-align: center;
-  color:red;
+  color: red;
 }
-p{
+p {
   margin-left: 3%;
   margin-right: 4%;
   margin-top: 1%;
@@ -105,5 +101,3 @@ p{
   line-height: 2em;
   color: hsl(0, 0%, 0%);
 }
-
-   
